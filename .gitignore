@@ -1,0 +1,11 @@
+# Local environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Source imagery and downloaded datasets. Too large for GitHub.
+COGS/
+data/SmallTreePolygons_v0.23/
+data/chips/
+*.tif
+*.aux.xml
